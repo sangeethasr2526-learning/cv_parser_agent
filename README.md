@@ -134,17 +134,3 @@ git commit -m "Your clear commit message"
 git push origin your-branch-name
 ```
 
----
-
-## 📋 Component Legend
-
-| Color | Type |
-|---|---|
-| 🔵 | LLM Agent |
-| 🟢 | ML/DL Model |
-| 🟡 | Function/Orchestration |
-| ⬜ | Data/Input |
-| 🟣 | Memory/State Store |
-| 🟠 | Prediction/Decision |
-
----
