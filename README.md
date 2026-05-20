@@ -102,12 +102,50 @@ pip install -r requirements.txt
 ```
 
 ---
+# CV Parser Agent 🤖
 
-# Running the Project
+A fully agentic CV/Resume parser powered by Groq (LLaMA 3.3) that extracts structured data from PDF, DOCX, and image-based CVs.
 
+## Setup
+
+### 1. Clone the repo
 ```bash
-python agent.py
+git clone https://github.com/sangeethasr2526-learning/cv_parser_agent.git
+cd cv_parser_agent
 ```
+
+### 2. Create a virtual environment
+```bash
+python -m venv venv
+
+# Windows
+venv\Scripts\activate
+
+# Mac/Linux
+source venv/bin/activate
+```
+
+### 3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Set up your API key
+- Get your free Groq API key from 👉 https://console.groq.com
+- Create a `.env` file in the project folder:
+```
+GROQ_API_KEY=your_groq_api_key_here
+```
+
+### 5. Run
+```bash
+python agent.py "path/to/cv.pdf"
+```
+
+## Notes
+- Never share or commit your `.env` file
+- `.env` is already in `.gitignore` so it won't be pushed to GitHub
+
 
 ---
 
