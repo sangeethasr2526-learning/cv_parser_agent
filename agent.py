@@ -8,6 +8,7 @@ Includes robust JSON cleaning to handle LLaMA quirks.
 import os
 import re
 import json
+from dotenv import load_dotenv
 from openai import OpenAI
 
 from tools import (
@@ -20,13 +21,16 @@ from tools import (
     validate_output,
 )
 
+# Load environment variables from .env file
+load_dotenv()
+
 # =============================================================================
 # CLIENT SETUP
 # =============================================================================
 
 # Option A: Groq (current)
 client = OpenAI(
-    api_key=os.environ.get("GROQ_API_KEY", "paste-your-groq-key-here"),
+    api_key=os.environ.get("GROQ_API_KEY"),
     base_url="https://api.groq.com/openai/v1",
 )
 MODEL = "llama-3.3-70b-versatile"
