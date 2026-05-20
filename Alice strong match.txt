@@ -1,0 +1,52 @@
+Alice Okafor
+alice.okafor@email.com | +1-415-555-0182 | San Francisco, CA
+linkedin.com/in/aliceokafor | github.com/aliceokafor
+
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 7 years of experience building production ML systems at scale. Deep expertise in NLP, recommendation systems, and MLOps. Led teams of 3–8 engineers and shipped models serving 50M+ users.
+
+EXPERIENCE
+
+Senior Machine Learning Engineer — Stripe
+2021-04 – present
+- Designed and deployed a real-time fraud detection model (XGBoost + feature store) reducing chargebacks by 28%
+- Led migration of batch ML pipelines to streaming (Kafka + Flink), cutting inference latency from 800ms to 40ms
+- Mentored 4 junior engineers; established ML code-review standards across the team
+- Tech: Python, PyTorch, XGBoost, Kafka, Flink, GCP, Vertex AI, MLflow
+
+Machine Learning Engineer — Airbnb
+2019-02 – 2021-03
+- Built price recommendation model using LightGBM, lifting host revenue by 11% in A/B test
+- Developed NLP pipeline (BERT fine-tune) for automated review moderation, 94% precision
+- Collaborated with product on experimentation framework (A/B, multi-arm bandit)
+- Tech: Python, TensorFlow, BERT, Spark, Airflow, AWS, S3, Redshift
+
+Data Scientist — Twitter
+2017-06 – 2019-01
+- Created user engagement scoring model for timeline ranking (online learning)
+- Reduced feature engineering time 40% by building shared feature library
+- Tech: Python, Scala, Spark, Hadoop, scikit-learn
+
+EDUCATION
+
+M.S. Computer Science (Machine Learning) — Stanford University
+2015-09 – 2017-05
+
+B.Eng. Electrical Engineering — University of Lagos
+2010-09 – 2014-06
+
+SKILLS
+Languages: Python, Scala, SQL, Bash
+Frameworks: PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, Hugging Face
+MLOps & Infra: MLflow, Vertex AI, Kubeflow, Airflow, Docker, Kubernetes
+Cloud: GCP, AWS
+Databases: Redshift, BigQuery, PostgreSQL, Redis
+
+PROJECTS
+Open-Source Feature Store (github.com/aliceokafor/featurestore)
+Lightweight Python feature store with Redis backend; 600+ GitHub stars.
+Technologies: Python, Redis, FastAPI
+
+CERTIFICATIONS
+Google Professional ML Engineer
+AWS Certified Machine Learning – Specialty

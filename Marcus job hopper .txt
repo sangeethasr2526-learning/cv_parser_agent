@@ -1,0 +1,47 @@
+Marcus Webb
+marcus.webb@inbox.com | +44 7700 900234 | London, UK
+
+SUMMARY
+Passionate software developer excited to grow in a stable environment.
+
+WORK EXPERIENCE
+
+Backend Developer — FinchTech Payments
+2024-01 – present
+- Worked on payment API endpoints
+- Fixed bugs in transaction processing
+
+Software Engineer — BlueSky Analytics
+2023-06 – 2023-12
+- Built dashboard features in React
+- Attended daily standups
+
+Junior Developer — Rapidfire Media
+2023-01 – 2023-05
+- Wrote Python scripts for data cleaning
+- Helped with deployment
+
+Software Developer Intern — Cobalt Digital
+2022-07 – 2022-12
+- Assisted senior developers
+- Learned Git workflow
+
+Sales Representative — PC World
+2021-09 – 2022-06
+- Sold consumer electronics
+- Achieved 105% of monthly target
+
+EDUCATION
+
+B.Sc. Computer Science — University of Manchester
+2018-09 – 2021-06
+
+SKILLS
+Languages: Python, JavaScript
+Frameworks: React, Flask
+Tools: Git, Docker (basic)
+
+PROJECTS
+Weather App (personal project)
+Simple weather dashboard using OpenWeather API.
+Technologies: Python, Flask, HTML

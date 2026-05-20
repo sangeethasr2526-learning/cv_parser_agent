@@ -1,0 +1,46 @@
+Priya Nair
+priya.nair@gmail.com | Bengaluru, India | linkedin.com/in/priyanair
+
+PROFESSIONAL SUMMARY
+Data analyst transitioning into machine learning engineering after completing a self-directed ML curriculum. Former business analyst with 4 years experience in finance sector.
+
+EXPERIENCE
+
+Data Analyst — HDFC Bank
+2017-08 – 2020-11
+- Built Excel and SQL dashboards for credit risk reporting
+- Automated monthly MIS reports using Python (pandas), saving 20 hrs/month
+- Worked with stakeholders to define KPIs for retail lending portfolio
+
+Business Analyst — Infosys (BFS Practice)
+2015-06 – 2017-07
+- Requirements gathering for core banking system modernization
+- Wrote BRDs and user stories; facilitated UAT sessions
+
+EDUCATION
+
+M.Tech Artificial Intelligence — IIT Hyderabad
+2022-07 – 2024-05
+
+B.Com Finance — Christ University Bengaluru
+2012-06 – 2015-04
+
+SKILLS
+Languages: Python, SQL, R (basic)
+ML: scikit-learn, pandas, NumPy, matplotlib, seaborn
+Deep Learning: PyTorch (learning), Keras
+Tools: Jupyter, Git, Tableau
+Cloud: AWS (S3, SageMaker basics)
+
+PROJECTS
+Credit Default Prediction (MTech dissertation)
+Built an XGBoost model on UCI credit default dataset; 89% AUC. Full EDA, feature engineering, SHAP explanations.
+Technologies: Python, XGBoost, SHAP, scikit-learn
+
+Sentiment Classifier (personal)
+Fine-tuned DistilBERT on product reviews; deployed as FastAPI endpoint on AWS Lambda.
+Technologies: HuggingFace, FastAPI, AWS Lambda
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner (2023)
+DeepLearning.AI Machine Learning Specialization (Coursera, 2022)
